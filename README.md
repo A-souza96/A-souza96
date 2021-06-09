@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Hello, im Adriel
-- 🔭 I’m currently studying JavaScript,.
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I’m currently studying JavaScript and Java.
+- 🌱 I’m currently learning ReactJs , NodeJs.
+- 🤝 I’m looking to collaborate . 
 
 
 
