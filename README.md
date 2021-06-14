@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-Hello, im Adriel
-- 🔭 I’m currently studying JavaScript and Java.
-- 🌱 I’m currently learning ReactJs , NodeJs.
-- 🤝 I’m looking to collaborate . 
+My name is Adriel,im from Brasil. 
+
+I'm currently graduating in Electrical Engineering - Habilitation in Robotics and Industrial Automation at UFJF.
+Since I was a child I have been passionate about innovations and exact sciences, this made me choose a career in which I could study and delve into different types of technologies.
+My professional objective is to share experiences and knowledge in order to contribute to results through my skills and constantly learn from my daily work.
+
+- 🔭 Here you gonna find some codes in JavaScript, Java and C#/.NET
+- 🌱 I'm currently studying ReactJs and Node.js
 
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adriel-souza-363b05179/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adrielsouzaaa/) 
 
 
 
