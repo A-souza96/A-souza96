@@ -7,8 +7,8 @@ I'm currently graduating in Electrical Engineering - Habilitation in Robotics an
 Since I was a child I have been passionate about innovations and exact sciences, this made me choose a career in which I could study and delve into different types of technologies.
 My professional objective is to share experiences and knowledge in order to contribute to results through my skills and constantly learn from my daily work.
 
-- 🔭 Here you gonna find some codes in JavaScript, Java and C#/.NET
-- 🌱 I'm currently studying ReactJs and Node.js
+- 🔭 Here you gonna find some codes in Java and C#/.NET
+- 🌱 I'm currently studying Quarkus, Springboot .
 
 
 
