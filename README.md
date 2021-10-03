@@ -8,7 +8,7 @@ Since I was a child I have been passionate about innovations and exact sciences,
 My professional objective is to share experiences and knowledge in order to contribute to results through my skills and constantly learn from my daily work.
 
 - 🔭 Here you gonna find some codes in Java and Javascript
-- 🌱 I'm currently studying golang.
+- 🌱 I'm currently studying React Native, ReactJs.
 
 
 
