@@ -7,8 +7,8 @@ I'm currently graduating in Electrical Engineering - Habilitation in Robotics an
 Since I was a child I have been passionate about innovations and exact sciences, this made me choose a career in which I could study and delve into different types of technologies.
 My professional objective is to share experiences and knowledge in order to contribute to results through my skills and constantly learn from my daily work.
 
-- 🔭 Here you gonna find some codes in Python, Elixir
-- 🌱 I'm currently studying phoenix
+- 🔭 Here you gonna find some codes in Python 
+- 🌱 I'm currently studying Elixir , phoenix
 
 
 
