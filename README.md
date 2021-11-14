@@ -6,17 +6,17 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code in: C/C++, Javascript, Typescript, Rust (Learning) 
+Code in: C/C++, Javascript, Python, Rust (Learning) 
 
 Frameworks:
 
 Frontend: React, Next, Bootstrap, Styled-components
   
-Backend: Express, Nest
+Backend: Express, Flask
 
 Databases: Postgres, Mongodb
 
-Currently studying: Rust, Solidity, Blockchain.
+Currently studying: Rust.
 
 Fun fact: I've been vocalist in two bands
 
