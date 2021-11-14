@@ -9,8 +9,10 @@ I like systems development, web development
 Code in: Python, C/C++, Javascript, Rust (Learning) 
 
 Frameworks:
-  Frontend: React, Bootstrap, Tailwind css
-  Backend: Flask, Django, Express
+
+Frontend: React, Bootstrap, Tailwind css
+  
+Backend: Flask, Django, Express
 
 Databases: Postgres, Mongodb
 
