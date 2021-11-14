@@ -6,7 +6,7 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code in: C/C++, Javascript, Typescript,Rust (Learning) 
+Code in: C/C++, Javascript, Typescript, Rust (Learning) 
 
 Frameworks:
 
