@@ -1,15 +1,25 @@
 ### Hi there 👋
 
-My name is Adriel,im from Brasil. 
+My name is Adriel
 
-I'm currently graduating in Electrical Engineering - Habilitation in Robotics and Industrial Automation at UFJF and working as product developer intern at neubras
+I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
 
-Since I was a child I have been passionate about innovations and exact sciences, this made me choose a career in which I could study and delve into different types of technologies.
-My professional objective is to share experiences and knowledge in order to contribute to results through my skills and constantly learn from my daily work.
+I like systems development, web development
 
-- 🔭 Here you gonna find some personal projects 
-- Javascript | Python | Rust 
-- Studying Rust
+Code in: Python, C/C++, Javascript, Rust (Learning) 
+
+Frameworks:
+  Frontend: React, Bootstrap, Tailwind css
+  Backend: Flask, Django, Express
+
+Databases: Postgres, Mongodb
+
+Currently studying: Rust, Blockchain and Elixir (learning functional programming).
+
+Fun fact: I've been vocalist in two bands
+
+- 🔭 Here you gonna find some personal projects and repositories that i use to test some stuff
+
 
 
 
