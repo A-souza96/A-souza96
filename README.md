@@ -16,7 +16,7 @@ Backend: SpringBoot, Flask
 
 Databases: Mysql, Postgres, Mongodb
 
-Currently studying: .NET6 .
+Currently studying: Rust .
 
 Fun fact: I've been vocalist in two bands
 
