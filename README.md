@@ -6,7 +6,7 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code mainly in: Javascript, C/C++, Java 
+Code mainly in: Javascript, C/C++, Java , C#
 
 Frameworks:
 
@@ -16,7 +16,7 @@ Backend: Express, Springboot
 
 Databases: Mysql, Postgres, Mongodb
 
-Currently studying: Rust .
+Currently studying: closure .
 
 Fun fact: I've been vocalist in two bands
 
