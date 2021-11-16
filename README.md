@@ -6,13 +6,13 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code mainly in: Javascript, C/C++, Java , C#
+Code mainly in: Javascript, python, C/C++
 
 Frameworks:
 
 Frontend: React, Bootstrap, Styled-components
   
-Backend: Express, Springboot
+Backend: Express, flask
 
 Databases: Mysql, Postgres, Mongodb
 
