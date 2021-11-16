@@ -16,7 +16,7 @@ Backend: Express, Springboot
 
 Databases: Mysql, Postgres, Mongodb
 
-Currently studying: closure .
+Currently studying: rust .
 
 Fun fact: I've been vocalist in two bands
 
