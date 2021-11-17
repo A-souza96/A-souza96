@@ -18,7 +18,7 @@ Backend: Express, Nest
 
 Databases: Postgres, Mongodb
 
-Currently studying: rust .
+Currently studying: functional programming languages.
 
 Fun fact: I've been vocalist in two bands
 
