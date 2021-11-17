@@ -12,9 +12,9 @@ Code mainly in: Javascript, C/C++
 
 Frameworks:
 
-Frontend: React, Next, Bootstrap, Styled-components
+Frontend: React, Bootstrap, Styled-components
   
-Backend: Express, Nest
+Backend: Express
 
 Databases: Postgres, Mongodb
 
