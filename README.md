@@ -6,9 +6,9 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code mainly in: Javascript, C/C++
+Code mainly in: Javascript, java, C/C++
 
-(I also code in java, python, but not with the same expertise as the languages above)
+(I also code in C#, python, but not with the same expertise as the languages above)
 
 Frameworks:
 
