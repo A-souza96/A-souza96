@@ -6,19 +6,19 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code mainly in: Javascript, C/C++
+Code mainly in: C/C++, java , Javascript
 
-(I also code in C#, java, but not with the same expertise as the languages above)
+(I also code in C#, but not with the same expertise as the languages above)
 
 Frameworks:
 
-Frontend: React, Bootstrap, Styled-components
+Frontend: React, Bootstrap
   
-Backend: Express
+Backend: Springboot
 
 Databases: Postgres, Mongodb
 
-Currently studying: rust, elixir.
+Currently studying: rust, golang.
 
 Fun fact: I've been vocalist in two bands
 
