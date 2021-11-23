@@ -18,7 +18,7 @@ Backend: Springboot
 
 Databases: Postgres, Mongodb
 
-Currently studying: rust, golang.
+Currently studying: Golang.
 
 Fun fact: I've been vocalist in two bands
 
