@@ -6,17 +6,7 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I like systems development, web development
 
-Code mainly in: C/C++, java , Javascript
-
-(I also code in C#, but not with the same expertise as the languages above)
-
-Frameworks:
-
-Frontend: React, Bootstrap
-  
-Backend: Springboot
-
-Databases: Postgres, Mongodb
+Code mainly in: C/C++, java ,C#, Javascript (React.js)
 
 Currently studying: Golang.
 
