@@ -10,7 +10,7 @@ Code mainly in: C/C++, Java ,C#
 
 web frameworks: springboot, react
 
-Currently studying: Golang.
+Currently studying: Golang, quarkus.
 
 Fun fact: I've been vocalist in two bands
 
