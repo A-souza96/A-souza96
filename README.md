@@ -2,11 +2,11 @@
 
 My name is Adriel
 
-I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
+I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++ and solutions using C#.
 
-I like systems development, web development
+I'm interested in native cloud computing, systems development, web development.
 
-Code mainly in: C/C++, java ,C#, Javascript (React.js)
+Code mainly in: C/C++, Java ,C#
 
 Currently studying: Golang.
 
