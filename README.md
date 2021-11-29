@@ -6,9 +6,7 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I'm interested in Cloud native computing, systems development, web development.
 
-Code mainly in: C/C++, C# ,Java 
-
-Currently studying: Golang.
+Code mainly in: C/C++, C# 
 
 Fun fact: I've been vocalist in two bands
 
