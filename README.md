@@ -4,7 +4,7 @@ My name is Adriel
 
 I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++ and solutions using C#.
 
-I'm interested in Cloud native computing, systems development, web development.
+I'm interested in embedded systems, systems development, web development.
 
 Code mainly in: C/C++, C#, javascript
 
