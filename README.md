@@ -8,7 +8,7 @@ I'm interested in embedded systems, systems development, web development.
 
 Code mainly in: C/C++, C#, javascript
 
-current learning: rust
+current learning: golang
 
 Fun fact: I've been vocalist in two bands
 
