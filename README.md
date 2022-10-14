@@ -4,11 +4,11 @@ My name is Adriel
 
 I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
 
-I'm interested in embedded systems, systems development, web development.
+I'm interested in embedded systems, systems development, data.
 
-Code mainly in: C/C++, python, javascript
+Code mainly in: C/C++, Python
 
-current learning: golang
+current learning: Machine Learning
 
 Fun fact: I've been vocalist in two bands
 
