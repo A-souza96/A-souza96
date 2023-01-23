@@ -6,7 +6,7 @@ I'm working as product developer | software developer at neubras, mainly develop
 
 I'm interested in embedded systems, IoT, Telecom and robotics.
 
-Code mainly in: C/C++, Java
+Code mainly in: C/C++, python
 
 current learning: Docker and Kubernetes
 
