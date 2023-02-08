@@ -8,7 +8,7 @@ I'm interested in embedded systems, IoT, Telecom and robotics.
 
 Code mainly in: C/C++, python
 
-current learning: Docker and Kubernetes
+current learning: Rust
 
 Fun fact: I've been vocalist in two bands
 
