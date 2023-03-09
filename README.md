@@ -4,7 +4,7 @@ My name is Adriel
 
 I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
 
-I'm interested in embedded systems, IoT, Telecom and robotics.
+I'm interested in embedded systems, system programing, crypto/blockchain, IoT, Telecom and robotics.
 
 Code mainly in: C/C++, python
 
