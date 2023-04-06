@@ -7,7 +7,7 @@ Also I have expertise in web development using MERN stack.
 
 Code mainly in: javascript, C/C++, python
 
-current learning: Scala
+current learning: blockchain
 
 Fun fact: I've been vocalist in two bands
 
