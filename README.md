@@ -3,11 +3,10 @@
 My name is Adriel
 
 I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
-Also I have expertise in web development using MERN stack.
 
-Code mainly in: javascript, C/C++, python
+Code mainly in: java C/C++, python
 
-current learning: blockchain
+current learning: scala
 
 Fun fact: I've been vocalist in two bands
 
