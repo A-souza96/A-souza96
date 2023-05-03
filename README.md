@@ -4,7 +4,7 @@ My name is Adriel
 
 I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
 
-Code mainly in: java C/C++, python
+Code mainly in: java, C
 
 current learning: scala
 
