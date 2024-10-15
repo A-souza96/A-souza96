@@ -2,11 +2,11 @@
 
 My name is Adriel
 
-I'm working as product developer | software developer at neubras, mainly developing embedded software, firmwares using C/C++.
+I'm working as electrical engineer at Touch International, mainly developing embedded software, firmwares using C/C++.
 
 Code mainly in: javascript, python, C
 
-current learning: scala
+current learning: embedded linux
 
 Fun fact: I've been vocalist in two bands
 
